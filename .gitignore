@@ -1,0 +1,7 @@
+repos/
+.venv/
+chroma_db/
+__pycache__/
+chunks.json
+ingested_files.json
+.DS_Store
